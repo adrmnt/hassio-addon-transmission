@@ -1,5 +1,5 @@
 {
-    "name": "Hass.io Add-ons by maorc",
-    "url": "https://github.com/maorcc/hassio-addon-transmission",
-    "maintainer": "Maor <255973+maorcc@users.noreply.github.com>"
+    "name": "Hass.io Add-ons by adrmnt(forked from maorcc/hassio-addon-transmission)",
+    "url": "https://github.com/adrmnt/hassio-addon-transmission",
+    "maintainer": "adrianxmanta@gmail.com"
   }
